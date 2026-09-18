@@ -1,5 +1,6 @@
 name: operit_intro
-description: Operit intro app - 全能 AI 助手展示
+description: Operit intro app
+description: Operit intro app - 全能 AH 助手展示
 publish_to: 'none'
 
 version: 1.0.0+1
@@ -11,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
- dev_dependencies:
+dev_dependencies:
   flutter_test:
     sdk: flutter
 
