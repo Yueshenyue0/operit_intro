@@ -1,6 +1,5 @@
 name: operit_intro
-description: Operit intro app
-description: Operit intro app - 全能 AH 助手展示
+description: "Operit intro app"
 publish_to: 'none'
 
 version: 1.0.0+1
